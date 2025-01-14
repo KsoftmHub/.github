@@ -4,11 +4,13 @@
 
 ## Packages List
 
-[ksoftmhub/packages](https://www.npmjs.com/settings/ksoftmhub/packages)
+<!-- [ksoftmhub/packages](https://www.npmjs.com/settings/ksoftmhub/packages) -->
 
-[meebon/packages](https://www.npmjs.com/settings/meebon/packages)
+[meebon/cli](https://www.npmjs.com/package/@meebon/meebon-cli)
 
-[ksoftm/packages](https://www.npmjs.com/settings/ksoftm/packages)
+
+
+<!-- [ksoftm/packages](https://www.npmjs.com/settings/ksoftm/packages) -->
 <!--
 
 **Here are some ideas to get you started:**
